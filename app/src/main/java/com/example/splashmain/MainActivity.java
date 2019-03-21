@@ -33,6 +33,6 @@ public class MainActivity extends AppCompatActivity {
         adapter Adapter = new adapter(this,mlist);
         recyclerView.setAdapter(Adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
-
+//Hola Kevin
     }
 }
