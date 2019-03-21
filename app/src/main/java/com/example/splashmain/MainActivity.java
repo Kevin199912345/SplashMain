@@ -34,5 +34,6 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(Adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 //Hola Kevin 111111
+        //Que pasa!!!
     }
 }
